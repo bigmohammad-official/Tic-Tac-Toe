@@ -3,7 +3,7 @@ Tic-Tac-Toe game in Python source code
 
 
 
-⚠️`Essential Modules`⚠️
+❌ `Essential Modules`⭕	
 ⬇️
 ```shell
 pip install pygame
